@@ -260,8 +260,13 @@ h3 {
   left: 0;
 }
 
-.pattern-card {
+.speaker-card {
+  top: 250px;
   right: 0;
+}
+
+.pattern-card {
+  left: 0;
   bottom: 82px;
 }
 
@@ -518,8 +523,13 @@ h3 {
     top: 18px;
   }
 
-  .pattern-card {
+  .speaker-card {
     right: 4px;
+    top: 186px;
+  }
+
+  .pattern-card {
+    left: 4px;
     bottom: 44px;
   }
 
